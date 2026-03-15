@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "radiance",
+  "base_artist": "川田まみ",
+  "createdAt": "2026-03-15T15:59:44.854966Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Radiance",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/01_The_Radiance_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Radiance",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/02_The_Radiance_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Radiance",
+      "artist": "Anathema",
+      "has_synced": false,
+      "path": "select/03_Radiance_Anathema.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "radiance",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/04_radiance_川田まみ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Radiance in the Light of a Dying Sun",
+      "artist": "Angelmaker",
+      "has_synced": true,
+      "path": "select/05_Radiance_in_the_Light_of_a_Dying_Sun_Angelmaker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Radiance",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/06_The_Radiance_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Radiance",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/07_The_Radiance_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All Your Radiance...",
+      "artist": "Lacrimas Profundere",
+      "has_synced": true,
+      "path": "select/08_All_Your_Radiance..._Lacrimas_Profundere.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Radiance of All That Shines - Fragrance Remix",
+      "artist": "Pure Obsessions & Red Nights feat. Fragrance",
+      "has_synced": false,
+      "path": "select/09_The_Radiance_of_All_That_Shines_-_Fragrance_Remix_Pure_Obsessions_&_Red_Nights_feat._Fragrance.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Radiance of All That Shines (Fragrance Remix)",
+      "artist": "Pure Obsessions & Red Nights",
+      "has_synced": false,
+      "path": "select/10_The_Radiance_of_All_That_Shines_(Fragrance_Remix)_Pure_Obsessions_&_Red_Nights.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Below the Radiance",
+      "artist": "Dark Tranquillity",
+      "has_synced": true,
+      "path": "select/11_Below_the_Radiance_Dark_Tranquillity.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Below The Radiance (Previously Unreleased)",
+      "artist": "Dark Tranquility",
+      "has_synced": true,
+      "path": "select/12_Below_The_Radiance_(Previously_Unreleased)_Dark_Tranquility.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Radiance",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/13_The_Radiance_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Radiance",
+      "artist": "The Museum",
+      "has_synced": false,
+      "path": "select/14_Radiance_The_Museum.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Below The Radiance (Previously Unreleased)",
+      "artist": "Dark Tranquillity",
+      "has_synced": true,
+      "path": "select/15_Below_The_Radiance_(Previously_Unreleased)_Dark_Tranquillity.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "radiance",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_01_radiance_川田_まみ.txt"
+    }
+  ]
+}
